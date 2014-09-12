@@ -31,6 +31,14 @@
 				"sha-2": "F0:90:47:97:B5:B4:7F:1F:05:0C:31:34:A0:09:88:7D:01:FF:30:9F:03:B3:4A:82:50:D2:44:CB:70:40:EE:45"
 			},
 			"SHA-2 URL": "https://www.startssl.com/certs/class4/sha2/pem/sub.ev.server.sha2.ca.pem"
+		},
+		{
+			"name": "DigiCert Secure Server CA",
+			"fingerprints": {
+				"sha-1": "F9:AE:40:CC:BB:DA:47:95:E5:8A:C5:D2:03:BF:B7:BD:33:1B:81:E8",
+				"sah-2": "94:D4:EC:E2:ED:9A:54:57:B9:69:A1:3B:26:04:89:E9:A5:FE:47:90:A0:41:F2:7A:3E:B4:12:6C:84:41:8E:F9"
+			},
+			"SHA-2 URL": "http://cacerts.digicert.com/DigiCertSHA2SecureServerCA.crt"
 		}
 	]	
 }
