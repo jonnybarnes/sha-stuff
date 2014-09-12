@@ -1,0 +1,12 @@
+{
+	"certificates": [
+		{
+			"name": "StartSSL Class1 Intermediate CA",
+			"fingerprints": {
+				"sha-1": "F6:91:FC:87:EF:B3:13:53:54:22:5A:10:E1:27:E9:11:D1:C7:F8:CF",
+				"sha-2": "CB:2D:B5:73:61:0F:40:1E:8D:60:29:17:BB:BE:6A:B4:16:22:55:F2:08:EF:AD:90:9D:54:40:69:1A:A0:20:3C"
+			},
+			"SHA-2 URL": "https://www.startssl.com/certs/class1/sha2/pem/sub.class1.server.sha2.ca.pem"
+		}
+	]	
+}
