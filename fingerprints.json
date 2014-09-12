@@ -39,6 +39,30 @@
 				"sah-2": "94:D4:EC:E2:ED:9A:54:57:B9:69:A1:3B:26:04:89:E9:A5:FE:47:90:A0:41:F2:7A:3E:B4:12:6C:84:41:8E:F9"
 			},
 			"SHA-2 URL": "http://cacerts.digicert.com/DigiCertSHA2SecureServerCA.crt"
+		},
+		{
+			"name": "VeriSign Standard SSL RSA Secondary SSL Intermediate CA Certificate",
+			"fingerprints": {
+				"sha-1": "5D:EB:8F:33:9E:26:4C:19:F6:68:6F:5F:8F:32:B5:4A:4C:46:B4:76",
+				"sha-2": "64:90:35:46:A5:80:58:D1:E6:F1:BE:AD:11:34:ED:E6:6A:68:31:D2:31:F0:DF:8D:4E:28:53:5D:7A:30:04:96"
+			},
+			"SHA-2 URL": "https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&amp;actp=CROSSLINK&amp;id=AR2064"
+		},
+		{
+			"name": "VeriSign Standard SSL RSA Primary Intermediate CA Certificate",
+			"fingerprints": {
+				"sha-1": "32:F3:08:82:62:2B:87:CF:88:56:C6:3D:B8:73:DF:08:53:B4:DD:27",
+				"sha-2": "84:20:DF:BE:37:6F:41:4B:F4:C0:A8:1E:69:36:D2:4C:CC:03:F3:04:83:5B:86:C7:A3:91:42:FC:A7:23:A6:89"
+			},
+			"SHA-2 URL": "https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&amp;actp=CROSSLINK&amp;id=AR2064"
+		},
+		{
+			"name": "VeriSign Premium SSL RSA Secondary SSL Intermediate CA Certificate",
+			"fingerprints": {
+				"sha-1": "B1:8D:9D:19:56:69:BA:0F:78:29:51:75:66:C2:5F:42:2A:27:71:04",
+				"sha-2": "6E:21:87:6C:F1:63:47:20:1F:63:7A:17:8C:B4:2B:17:1D:52:37:9A:F7:E5:F5:B6:F6:75:5B:3E:E9:BB:2E:D4"
+			},
+			"SHA-2 URL": "https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&amp;actp=CROSSLINK&amp;id=AR2064"
 		}
 	]	
 }
