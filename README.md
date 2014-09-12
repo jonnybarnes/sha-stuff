@@ -1,2 +1,4 @@
 #SHA Stuff
 This is a collection of fingerprints of various SHA-1 signed intermediate CA certificates. Anyone can use this info, but the objective is for it to be used by https://shaaaaaaaaaaaaa.com
+
+The each entry in `fingerprints.json` contains a `name` parameter. This is a human-readable label for the SHA-1 signed certificate. Then there is the `fingerprints` property, self descriptive. Then there is the `SHA-2 URL` property which is a URL to where people can get the equivalent SHA-2 signed certificate for their chain. It will either be a direct download, or a page explaining how to get it. For example verisign simply have the text of the certificate in the page itself, one needs to copy and paste this text into their certiifcate chain.
